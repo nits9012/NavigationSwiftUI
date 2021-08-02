@@ -4,7 +4,7 @@
 
 Here are the screenshots.
 
-<img src="navigation.png" width="750" height="450">
+<img src="navigation.png" width="650" height="450">
 
 
 I hope this will help you to understand how to make an navigation view in iOS app using SwiftUI. Thank you
